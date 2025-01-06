@@ -32,3 +32,5 @@
    32  git restore code.py
    33  ls
    34  git status
+
+These are the some new changes which we need to put in the local form the github repositiory///
