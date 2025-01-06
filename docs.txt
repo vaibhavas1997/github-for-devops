@@ -1,0 +1,2 @@
+
+This is a testing document for push the "docs.txt" from the local to git repo
