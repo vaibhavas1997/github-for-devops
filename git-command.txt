@@ -1,0 +1,9 @@
+git --version
+git status
+git init
+git add filename
+git add .
+git commit -m "message"
+git restore
+git remote set-url origin https://PAT@github.com/...
+git push origin master
