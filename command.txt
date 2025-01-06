@@ -1,0 +1,34 @@
+    1  clear
+    2  git --version
+    3  git pull
+    4  clear
+    5  git versio
+    6  git --version
+    7  mkdir github
+    8  ls
+    9  cd github
+   10  ls
+   11  git init
+   12  ls
+   13  ls -l
+   14  ls -a
+   15  clear
+   16  ls -a
+   17  git status
+   18  vim code.py
+   19  git status
+   20  git add code.py
+   21  git status
+   22  git rm --cached code.py
+   23  git status
+   24  git add code.py
+   25  git status
+   26  clear
+   27  git status
+   28  git commit -m "added code.py"
+   29  rm code.py
+   30  ls
+   31  git status
+   32  git restore code.py
+   33  ls
+   34  git status
